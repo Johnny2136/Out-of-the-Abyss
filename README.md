@@ -1,12 +1,7 @@
 # Table of Contents
 
-1. [Chapter 1: Prisoners of the Drow](#Chapter-1:-Prisoners-of-the-Drow)
+1. [Chapter 1: Prisoners of the Drow](# Chapter-1:)
 2. [# Chapter 2: Into Darkness](#Chapter-2:-Into-Darkness)
-3.
-4.
-5.
-
-
 
 # Chapter 1: Prisoners of the Drow
 
