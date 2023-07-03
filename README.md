@@ -1,3 +1,13 @@
+# Table of Contents
+
+1. [Chapter 1: Prisoners of the Drow](#Chapter-1:-Prisoners-of-the-Drow)
+2. [# Chapter 2: Into Darkness](#Chapter-2:-Into-Darkness)
+3.
+4.
+5.
+
+
+
 # Chapter 1: Prisoners of the Drow
 
 Deep beneath the surface of the world lies the Underdark, a realm of endless labyrinthine tunnels and caverns where the sun never shines. The Underdark is filled with races and creatures too numerous to count or list, and foremost among these are the dark elves—the drow. Hated and feared even by their fellow dwellers in darkness, the drow raid other settlements in the Underdark as well as the surface world, taking prisoners back with them. Rendered unconscious with drow poison, then collared and shackled, these prisoners are eventually sold as slaves or entertainment in the dark elves' subterranean cities.
