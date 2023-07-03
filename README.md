@@ -1,7 +1,7 @@
 # Table of Contents
 
-1. [ Chapter-1:](https://github.com/Johnny2136/Out-of-the-Abyss/blob/main/README.md#chapter-1-prisoners-of-the-drow)
-2. [# Chapter 2: Into Darkness](#Chapter-2:-Into-Darkness)
+1. [ Chapter-1:-Prisoners-of-the-Drow](https://github.com/Johnny2136/Out-of-the-Abyss/blob/main/README.md#chapter-1-prisoners-of-the-drow)
+2. [ Chapter-2:-Into-Darkness)](https://github.com/Johnny2136/Out-of-the-Abyss/blob/main/README.md#chapter-2-into-darkness)
 
 # Chapter 1: Prisoners of the Drow
 
